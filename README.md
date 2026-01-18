@@ -1,2 +1,1 @@
-# Three-Floor-Elevator-Controller-FPGA-Verilog-
-Three floor elevator controller built in Verilog on a Cyclone IV FPGA, featuring floor buttons, reed switch sensing, motor direction control, and a blinking seven segment floor display. Includes auto‑calibration, direction LEDs, and full ModelSim simulation.
+A Verilog based elevator controller built on a Cyclone IV FPGA, featuring three floor buttons, reed switch floor sensing, motor direction control, and a seven segment floor display. It includes auto calibration on startup, direction LEDs, and full ModelSim simulation with testbench. Repository contains source code, schematic, pin assignments, and documentation.
